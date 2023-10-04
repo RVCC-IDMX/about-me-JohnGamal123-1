@@ -1,3 +1,3 @@
 # README
 
-John Gamal 
+John Gamal (IDMX STUDENT)
