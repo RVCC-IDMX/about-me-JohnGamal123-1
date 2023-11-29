@@ -5,3 +5,6 @@ h2{font-size: medium;} h2{font-family: 'Courier New', Courier, monospace;}
 #hobbies {
 
 }
+
+h1, h2, #hobbies, #biography {
+text-align: center;}
