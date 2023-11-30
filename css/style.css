@@ -14,3 +14,7 @@ text-align: center;}
 #gallery {
     border: 2px solid chocolate;
 }
+
+#gallery figure {
+    text-align: center;
+}
