@@ -8,3 +8,9 @@ h2{font-size: medium;} h2{font-family: 'Courier New', Courier, monospace;}
 
 h1, h2, #hobbies, #biography {
 text-align: center;}
+
+/* Gallery */
+
+#gallery {
+    border: 2px solid chocolate;
+}
