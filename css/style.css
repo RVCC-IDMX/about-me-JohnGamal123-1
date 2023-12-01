@@ -7,6 +7,7 @@ h2{font-size: medium;} h2{font-family: 'Courier New', Courier, monospace;}
 }
 
 h1, h2, #hobbies, #biography {
+    align-items: center;
 text-align: center;}
 
 /* Biography */
@@ -14,10 +15,10 @@ text-align: center;}
     text-align: center;
 }
 
-/* gallery */
-
+/* Gallery */
 #gallery {
     border: 2px solid chocolate;
+    border-color: solid chocolate;
     margin-bottom: 2rem;
 }
 
@@ -59,4 +60,32 @@ text-align: center;}
     text-shadow:5px 5px 3px rgba(0,0,0,.5);
     border-top-left-radius: .2em;
     border-bottom-right-radius: .2em;
+}
+
+#hobbies {
+    display: flex; 
+flex-direction: column; 
+align-items: center;
+}
+
+#hobbies {
+    display:grid;
+grid-template-columns: 2fr 1fr;
+}
+
+#hobbies {
+    display:flex;
+justify-content: center;
+align-items: center;
+font-size: 2rem;
+margin-left: 1rem;
+}
+
+#hobbies {
+    max-width:100%;
+columns: 40rem;
+}
+
+#hobbies {
+grid-template-columns: 1fr 1fr 1fr;
 }
