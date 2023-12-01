@@ -9,10 +9,16 @@ h2{font-size: medium;} h2{font-family: 'Courier New', Courier, monospace;}
 h1, h2, #hobbies, #biography {
 text-align: center;}
 
-/* Gallery */
+/* Biography */
+#biography {
+    text-align: center;
+}
+
+/* gallery */
 
 #gallery {
     border: 2px solid chocolate;
+    margin-bottom: 2rem;
 }
 
 #gallery figure {
@@ -21,4 +27,36 @@ text-align: center;}
 
 #gallery img {
     max-width: 100%;
+}
+
+/* Literature */
+#lit {
+    border: 2px solid chocolate;
+    margin-bottom: 2rem;
+}
+
+#lit div {
+    padding:2rem;
+    max-width: 40;
+    margin: 0 auto;
+}
+
+#lit div p {
+    padding: 0.3rem 0;
+    clear:both
+}
+
+/* Dropcaps */
+
+#lit div p::first-letter {
+    color: palegreen;
+    float: left;
+    font-size: 1.5em;
+    padding: .25em;
+    margin-right: .25em;
+    line-height: .65em;
+    border: 1px solid blue;
+    text-shadow:5px 5px 3px rgba(0,0,0,.5);
+    border-top-left-radius: .2em;
+    border-bottom-right-radius: .2em;
 }
