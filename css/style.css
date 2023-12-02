@@ -89,3 +89,18 @@ columns: 40rem;
 #hobbies {
 grid-template-columns: 1fr 1fr 1fr;
 }
+
+body {
+    background-color: bisque;
+}
+
+/* Contact Form */
+
+#formElements {
+    display:grid
+}
+
+footer {
+    margin-right: 2rem;
+    text-align: right;
+}
