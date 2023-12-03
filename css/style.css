@@ -25,10 +25,14 @@ h1, h2, #hobbies, #biography {
     border: 2px solid chocolate;
     border-color: solid chocolate;
     margin-bottom: 2rem;
+    align-items: center;
+    text-align: center;
 }
 
 #gallery figure {
     text-align: center;
+    align-items: center;
+    align-self: center;
 }
 
 #gallery img {
@@ -158,3 +162,14 @@ P {
 }
 
 
+/* gym */
+#gym { 
+    align-items: center;
+    text-align: center;
+}
+
+/* myVideo */
+#myVideo {
+    align-items: center;
+    text-align: center;
+}
