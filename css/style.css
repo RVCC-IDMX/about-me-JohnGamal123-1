@@ -3,14 +3,15 @@ h1 {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 h2{font-size: medium;} h2{font-family: 'Courier New', Courier, monospace;}
 
 #hobbies {
-    text-align: center;
+    text-align: left;
     font-size: large;
     font-family: sans-serif;
 }
 
 h1, h2, #hobbies, #biography {
-    align-items: center;
-text-align: center;}
+    align-items: left;
+    text-align: center;
+}
 
 /* Biography */
 #biography {
