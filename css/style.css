@@ -175,3 +175,15 @@ P {
 }
 
 /* movie */
+#movie {
+    align-items: center;
+    text-align: center;
+}
+
+h3 {
+    color: dodgerblue;
+    font: optional;
+    font-display: large;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
