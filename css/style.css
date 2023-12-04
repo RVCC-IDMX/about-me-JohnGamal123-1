@@ -12,6 +12,10 @@ h1, h2, #hobbies, #biography {
     align-items: left;
     text-align: center;
 }
+h1:hover{
+    background-color: transparent;
+    background-color: darksalmon;
+}
 
 /* Biography */
 #biography {
