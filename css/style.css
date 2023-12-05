@@ -106,8 +106,12 @@ columns: 40rem;
 grid-template-columns: 1fr 1fr 1fr;
 }
 
+#hobbies {
+    border: 2px solid black;
+}
+
 body {
-    background-color: bisque;
+    background-color: lavenderblush;
 }
 
 /* Contact Form */
@@ -192,12 +196,12 @@ P {
 }
 
 #movie{
-    border: 3px solid red;
+    border: 3px solid black;
     margin-top: 5rem;
 }
 
 h3 {
-    color: dodgerblue;
+    color: darkorchid;
     font: optional;
     font-display: large;
     font-size: large;
@@ -248,3 +252,18 @@ h3 {
     border-top-left-radius: .2em;
     border-bottom-right-radius: .2em;
 }
+
+/* photogallery */
+
+#photogallery{
+    align-items: center;
+    text-align: center;
+    align-self: center;
+}
+
+#photogallery{
+    border: 1.5px solid blueviolet;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
