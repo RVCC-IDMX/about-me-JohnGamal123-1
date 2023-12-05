@@ -312,12 +312,13 @@ h3 {
     color: black;
     float: left;
     font-size: 1.5em;
+    font-family:'Courier New', Courier, monospace;
     padding: .25em;
     margin-right: .25em;
     line-height: .65em;
     border: 1px solid black;
     border-color: black;
     text-shadow:5px 5px 3px rgba(0,0,0,.5);
-    border-top-left-radius: .2em;
+    border-top-left-radius: .1em;
     border-bottom-right-radius: .2em;
 }
