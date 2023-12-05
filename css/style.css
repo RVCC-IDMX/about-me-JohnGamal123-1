@@ -295,3 +295,9 @@ h3 {
     border-top-left-radius: .1em;
     border-bottom-right-radius: .2em;
 }
+
+/* This is on final-draft only
+
+* {
+    border:1px solid black;
+}*/
