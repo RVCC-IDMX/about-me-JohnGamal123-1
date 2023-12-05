@@ -267,3 +267,6 @@ h3 {
     margin-top: 2rem;
 }
 
+#photogallery :hover{
+    background-color: lightblue;
+}
