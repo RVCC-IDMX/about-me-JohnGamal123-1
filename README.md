@@ -1,4 +1,4 @@
 # 
-
+Alright so for the project I was going to do a car theme only but added gym pictures and my old hobbies, it's definitely not perfect but i'm glad with the finishing results. I added two YouTube videos to it about my car, 3 pictures of the car in the photo gallery. Then I added my gym pictures, added my favorite movie scarface, and made the hamburger icon and the contact forms fully functional and working. I would say the biggest trouble I had and still have is actually adding my favicon because I have tried multiple times and couldn't get it to work, I definitely did enjoy creating this website though and learned how to make one in VScode, learned a lot about HTML and CSS.
 
 John Gamal
