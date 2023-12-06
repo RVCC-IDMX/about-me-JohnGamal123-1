@@ -11,7 +11,7 @@ h2{font-size: medium;} h2{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-
     font-family: sans-serif;
 }
 
-h1, h2, #hobbies, #biography {
+h1, h2, #biography {
     align-items: center;
     text-align: center;
 }
@@ -295,3 +295,9 @@ h3 {
     border-top-left-radius: .1em;
     border-bottom-right-radius: .2em;
 }
+
+/* This is on final-draft only
+
+* {
+    border:1px solid black;
+}*/
